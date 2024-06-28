@@ -79,4 +79,5 @@ Here are some ideas to get you started:
 <br>
 <h3 align="center">📧 Contact 📧</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=Mail.ru&logoColor=white" />
+  <a href="mailto:melthetensai@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=Mail.ru&logoColor=white" /></a>
+  
