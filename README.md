@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h3>💡 Baekjoon Status 💡</h3>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=melthetensai"/>
+<a href="https://solved.ac/profile/melthetensai"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=melthetensai"/></a>
 </div>
 <br>
 <h3 align="center">📧 Contact 📧</h3>
